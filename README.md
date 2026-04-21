@@ -13,6 +13,6 @@ This is only a subset. For more, visit my [CV](https://drive.google.com/file/d/1
 ### Personal Projects
 - [MarkaNow](https://apps.apple.com/no/app/markanow/id6754087351) - Anonymous location-sharing app showing how busy outdoor areas are in real time
 - [TutorConnect](https://tutorconnect.no/) - Norwegian tutoring platform connecting teachers and students for private lessons
-- [SiaStory](https://github.com/rhymesg/SiaStory) - A learning app for my daughter with AI-generated stories, quizzes, and character competitions
+- [SiaStory](https://rhymesg.github.io/SiaStory-public/) - A learning app for my daughter with AI-generated stories, quizzes, and character competitions
 - [kpopdigest](https://www.kpopdigest.com/) - A website for daily K-pop digest in English from Korean news, blogs, and communities
 - [loypenews](https://loypenews.vercel.app/) - Cross-country ski trail grooming status alarm
