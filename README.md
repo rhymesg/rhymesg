@@ -12,5 +12,5 @@
 - [MarkaNow](https://github.com/rhymesg/MarkaNow) - Anonymous location-sharing app showing how busy outdoor areas are in real time
 - [TutorConnect](https://github.com/rhymesg/TutorConnect) - Norwegian tutoring platform connecting teachers and students for private lessons
 - [SiaStory](https://github.com/rhymesg/SiaStory) - A learning app for Sia with AI-generated stories, quizzes, and character competitions
-- [kpopdigest](https://github.com/rhymesg/kpopdigest) - A website for daily English K-pop updates from Korean news, blogs, and communities
-- [loypenews](https://github.com/rhymesg/loypenews) - Cross-country skiing trail grooming status alarm
+- [kpopdigest](https://github.com/rhymesg/kpopdigest) - A website for daily K-pop digest in English from Korean news, blogs, and communities
+- [loypenews](https://github.com/rhymesg/loypenews) - Cross-country ski trail grooming status alarm
