@@ -4,6 +4,8 @@
 - [MC_CRB_nonGaussian](https://github.com/rhymesg/MC_CRB_nonGaussian) - Monte Carlo calculation of Cramer-Rao Bound for non-Gaussian recursive filtering
 - [map_based_navigation](https://github.com/rhymesg/map_based_navigation) - Pattern matching algorithm for map-based navigation
 
+This is only a subset. For more, visit my [CV](https://drive.google.com/file/d/1Sz2a0A01IYmiWKUq7a7t-Bou-SxWU8mS/view).
+
 ### Deep Learning
 - [SRNN](https://github.com/rhymesg/SRNN) - PyTorch implementation of structural recurrent neural network for traffic speed prediction
 - [CapsNet](https://github.com/rhymesg/CapsNet) - TensorFlow implementation of Capsule Network for traffic speed prediction
