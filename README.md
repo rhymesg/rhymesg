@@ -11,8 +11,8 @@ This is only a subset. For more, visit my [CV](https://drive.google.com/file/d/1
 - [CapsNet](https://github.com/rhymesg/CapsNet) - TensorFlow implementation of Capsule Network for traffic speed prediction
 
 ### Personal Projects
-- [MarkaNow](https://github.com/rhymesg/MarkaNow) - Anonymous location-sharing app showing how busy outdoor areas are in real time
-- [TutorConnect](https://github.com/rhymesg/TutorConnect) - Norwegian tutoring platform connecting teachers and students for private lessons
+- [MarkaNow](https://apps.apple.com/no/app/markanow/id6754087351) - Anonymous location-sharing app showing how busy outdoor areas are in real time
+- [TutorConnect](https://tutorconnect.no/) - Norwegian tutoring platform connecting teachers and students for private lessons
 - [SiaStory](https://github.com/rhymesg/SiaStory) - A learning app for Sia with AI-generated stories, quizzes, and character competitions
-- [kpopdigest](https://github.com/rhymesg/kpopdigest) - A website for daily K-pop digest in English from Korean news, blogs, and communities
-- [loypenews](https://github.com/rhymesg/loypenews) - Cross-country ski trail grooming status alarm
+- [kpopdigest](https://www.kpopdigest.com/) - A website for daily K-pop digest in English from Korean news, blogs, and communities
+- [loypenews](https://loypenews.vercel.app/) - Cross-country ski trail grooming status alarm
