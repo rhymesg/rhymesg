@@ -1,7 +1,6 @@
 ### Navigation & Filtering
-- [Kalman_Filter](https://github.com/rhymesg/Kalman_Filter) - Source code for examples in a book chapter, "Introduction to Kalman Filter and Its Applications", *cited by 500+*.
+- [Kalman_Filter](https://github.com/rhymesg/Kalman_Filter) - Source code for "Introduction to Kalman Filter and Its Applications", *cited 500+ times*.
 - [Particle_Filter](https://github.com/rhymesg/Particle_Filter) - Various particle filters for terrain-referenced navigation, *published in IEEE TAES*.
-- [MC_CRB_nonGaussian](https://github.com/rhymesg/MC_CRB_nonGaussian) - Monte Carlo calculation of Cramer-Rao Bound for non-Gaussian recursive filtering.
 - [map_based_navigation](https://github.com/rhymesg/map_based_navigation) - Patented pattern matching algorithm for map-based navigation.
 
 This is only a subset. For more, visit my [CV](https://drive.google.com/file/d/1Sz2a0A01IYmiWKUq7a7t-Bou-SxWU8mS/view).
