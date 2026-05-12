@@ -18,8 +18,6 @@ This is only a subset. For more, visit my [CV](https://drive.google.com/file/d/1
 - [Loypenews](https://loypenews.vercel.app/) - Cross-country ski trail grooming status alarm.
 - [Young Economy](https://young-economy.vercel.app/) - Weekly mailing service for AI-generated market summary and investment advice.
 
-Other:
-- [coding-agent-guidelines](https://github.com/rhymesg/coding-agent-guidelines) - My software development principles for working with coding agents.
-
 For more, visit my [website](https://sites.google.com/view/youngjookim/young-solutions).
 
+- [coding-agent-guidelines](https://github.com/rhymesg/coding-agent-guidelines) - My software development principles for working with coding agents.
