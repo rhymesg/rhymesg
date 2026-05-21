@@ -3,7 +3,7 @@
 - [Particle_Filter](https://github.com/rhymesg/Particle_Filter) - Various particle filters for terrain-referenced navigation, *published in IEEE TAES*.
 - [map_based_navigation](https://github.com/rhymesg/map_based_navigation) - Patented pattern matching algorithm for map-based navigation.
 
-This is only a subset. For more, visit my [CV](https://drive.google.com/file/d/1Sz2a0A01IYmiWKUq7a7t-Bou-SxWU8mS/view).
+This is only a subset. For more, visit my [CV](https://drive.google.com/file/d/1hHWFbMNSYX0q3wzYfw5i2NRa9Uw_3P8X/view).
 
 ### Deep Learning
 - [SRNN](https://github.com/rhymesg/SRNN) - PyTorch implementation of structural recurrent neural network for traffic speed prediction.
