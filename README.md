@@ -20,4 +20,4 @@ This is only a subset. For more, visit my [CV](https://drive.google.com/file/d/1
 
 For more, visit my [website](https://sites.google.com/view/youngjookim/young-solutions).
 
-- [coding-agent-guidelines](https://github.com/rhymesg/coding-agent-guidelines) - My software development principles for working with coding agents.
+- [coding-agent-guidelines](https://github.com/rhymesg/coding-agent-guidelines) - Guidelines and reusable skills for working with coding agents.
