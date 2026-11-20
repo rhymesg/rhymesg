@@ -6,8 +6,8 @@
 This is only a subset. For more, visit my [CV](https://drive.google.com/file/d/1hHWFbMNSYX0q3wzYfw5i2NRa9Uw_3P8X/view).
 
 ### Deep Learning
-- [SRNN](https://github.com/rhymesg/SRNN) - PyTorch implementation of structural recurrent neural network for traffic speed prediction.
-- [CapsNet](https://github.com/rhymesg/CapsNet) - TensorFlow implementation of Capsule Network for traffic speed prediction.
+- [SRNN](https://github.com/rhymesg/SRNN) - Structural recurrent neural network for traffic speed prediction.
+- [CapsNet](https://github.com/rhymesg/CapsNet) - Capsule Network for traffic speed prediction.
 
 ### Personal Projects
 - [K-pop Digest](https://www.kpopdigest.com/) - A website for daily K-pop digest in English from Korean news, blogs, and communities.
